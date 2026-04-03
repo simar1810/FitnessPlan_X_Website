@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.luther",
+      "package_name": "com.wellnessz.fitnessplan",
       "sha256_cert_fingerprints": [
-        "D4:DC:C6:13:31:DF:2A:AC:74:EE:80:0C:BC:E7:45:5F:0A:AB:FC:FC:03:81:90:A6:B1:38:BB:5D:60:AA:EE:5D"
+        "2E:BF:1C:D2:A9:4E:01:25:27:B6:8B:89:B9:E6:F0:23:17:1F:37:A6:8E:EF:7F:C6:D5:A0:A3:D0:C4:5C:3C:D3"
       ]
     }
   }

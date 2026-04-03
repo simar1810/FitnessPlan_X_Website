@@ -3,12 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["YB5RW5JH8M.com.wellnessz.luther"],
+        "appIDs": ["YB5RW5JH8M.com.wellnessz.fitnessplan"],
         "paths": ["/app/*"]
       }
     ]
   },
   "webcredentials": {
-    "apps": ["YB5RW5JH8M.com.wellnessz.luther"]
+    "apps": ["YB5RW5JH8M.com.wellnessz.fitnessplan"]
   }
 }
