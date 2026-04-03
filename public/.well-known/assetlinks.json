@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wellnessz.luther",
+      "sha256_cert_fingerprints": [
+        "D4:DC:C6:13:31:DF:2A:AC:74:EE:80:0C:BC:E7:45:5F:0A:AB:FC:FC:03:81:90:A6:B1:38:BB:5D:60:AA:EE:5D"
+      ]
+    }
+  }
+]
